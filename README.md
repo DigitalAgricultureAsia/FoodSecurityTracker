@@ -9,10 +9,15 @@ The data download utility is built using Jupyter notebook and uses the following
 
 #### Content Description
 **-- Outputs** : Contains the output from the data downloading code. This will create two necessary outputs: (a) Commodity price Table, tagged by run date and (b) DMCs changes in various economic indicators, tagged by run date
+
 **-- data** : Contains the input files needed for downloading the data
+
 **-- Download Necessary Data.ipynb** : The jupyter notebook that will support downloading of the data from various sources
+
 **-- Presentation2.pptx**: Powerpoint file that shows the first versionof tracker
+
 **-- README.md**: This file
+
 **-- temp.xls**: A temporary file used for holding intermittent outputs
 
 #### Sources
